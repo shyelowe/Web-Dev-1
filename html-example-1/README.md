@@ -10,8 +10,9 @@ Introduce the basics of html syntax and demonstrate how to start a live server i
 
 ## HTML Demo Tasks
 
-- show how to set up a html file (is there any default content that needs to be there)
+- X show how to set up a html file (is there any default content that needs to be there)
 - Explore how to write html syntax (what's important?)
+    - opening + closing tags
 - create paragraph placeholder content
 - (optional) create an undordered list
 
@@ -20,4 +21,4 @@ Introduce the basics of html syntax and demonstrate how to start a live server i
 - X Initialize a repo
 - Push multiple sets of changes
 - initialize an html file
-- update the html file and then push it
+- X update the html file and then push it
